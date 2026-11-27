@@ -272,6 +272,7 @@ namespace PetrikCondeCup
             // 5) TOP 4: Dontos[index] = true
             // 6) allapot = 2
             Console.WriteLine("TODO: TOP 4 kiválasztása");
+            Console.WriteLine("tezt");
         }
 
         private static void DontoPontRogzitese()
